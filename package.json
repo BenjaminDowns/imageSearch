@@ -1,0 +1,15 @@
+{
+    "name": "img-finder",
+    "version": "0.0.1",
+    "description": "Image search abstraction layer.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Benjamin M. Downs",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.13.1",
+        "mongodb": "*"
+    }
+}
